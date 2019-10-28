@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/demo.iml" filepath="$PROJECT_DIR$/.idea/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/druid/druid.iml" filepath="$PROJECT_DIR$/druid/druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator/mybatis-generator.iml" filepath="$PROJECT_DIR$/mybatis-generator/mybatis-generator.iml" />
     </modules>
   </component>
 </project>
